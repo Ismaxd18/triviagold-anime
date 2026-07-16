@@ -1,7 +1,69 @@
 {
   "version": "3.0",
-  "exportedAt": "2026-07-16T05:17:52.733Z",
-  "formatos": [],
+  "exportedAt": "2026-07-16T12:47:30.478Z",
+  "formatos": [
+    {
+      "id": "vf",
+      "name": "✅ Verdadero o falso",
+      "subcategorias": [
+        {
+          "id": "vf-historia",
+          "name": "Historia del anime",
+          "ramas": [
+            "Batallas",
+            "Arcos argumentales"
+          ]
+        },
+        {
+          "id": "vf-personajes",
+          "name": "Personajes",
+          "ramas": [
+            "Villanos",
+            "Héroes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trivia",
+      "name": "🧩 ¿De qué anime es?",
+      "subcategorias": [
+        {
+          "id": "trivia-general",
+          "name": "General",
+          "ramas": [
+            "Identificación"
+          ]
+        },
+        {
+          "id": "trivia-shonen",
+          "name": "Shonen",
+          "ramas": [
+            "Batallas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "personaje",
+      "name": "🎭 Adivina el personaje",
+      "subcategorias": [
+        {
+          "id": "personaje-general",
+          "name": "General",
+          "ramas": [
+            "Protagonistas",
+            "Antagonistas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1784206011658",
+      "name": "Verdadero o Falso",
+      "subcategorias": []
+    }
+  ],
   "trivias": [
     {
       "id": 1784170202773,
@@ -13,5 +75,5 @@
       "preview": "Trivia sobre Frutas del Diablo en One Piece"
     }
   ],
-  "lastUpdated": "2026-07-16T05:17:52.734Z"
+  "lastUpdated": "2026-07-16T12:47:30.484Z"
 }
