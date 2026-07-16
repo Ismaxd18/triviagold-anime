@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "exportedAt": "2026-07-16T16:38:50.459Z",
+  "exportedAt": "2026-07-16T16:41:47.246Z",
   "formatos": [
     {
       "id": "f1784219545277",
@@ -28,6 +28,21 @@
       ]
     }
   ],
-  "trivias": [],
-  "lastUpdated": "2026-07-16T16:38:50.460Z"
+  "trivias": [
+    {
+      "id": 1784220106742,
+      "title": "¡SOLO EL 1% CONOCE TODAS LAS REGLAS DE LAS FRUTAS!",
+      "category": "One piece",
+      "date": "2026-07-16",
+      "image": "",
+      "json": "[\n  {\n    \"q\": \"Las Frutas del Diablo vuelven a aparecer en el mundo cuando su usuario muere\",\n    \"img\": \"https://i.blogs.es/bd873a/mera-mera-no-mi/450_1000.png\",\n    \"ans\": true,\n    \"exp\": \"Cuando un usuario de una Fruta del Diablo muere, ese poder renace en otra fruta común en algún lugar del mundo.\",\n    \"cat\": \"One Piece\"\n  },\n  {\n    \"q\": \"Buggy posee una Fruta del Diablo de tipo Logia\",\n    \"img\": \"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy24LITI_MtktAyYjSY3ce9OKU-oWlHe5r50Ai42vrqsvsTUousTyAkpg&s=10\",\n    \"ans\": false,\n    \"exp\": \"Buggy posee la Bara Bara no Mi, una Fruta del Diablo de tipo Paramecia que le permite separar su cuerpo en partes sin recibir daño por cortes.\",\n    \"cat\": \"One Piece\"\n  },\n  {\n    \"q\": \"Los usuarios de Frutas del Diablo pierden la capacidad de nadar en el mar\",\n    \"img\": \"https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=1200,height=675/catalog/crunchyroll/403c7e7cd10b2243afaf7ee30f4e8b3b.png\",\n    \"ans\": true,\n    \"exp\": \"El mar debilita a todos los usuarios de Frutas del Diablo, impidiéndoles nadar y reduciendo considerablemente sus fuerzas.\",\n    \"cat\": \"One Piece\"\n  }\n]",
+      "preview": "Las Frutas del Diablo vuelven a aparecer en el mundo cuando su usuario muere (+2 más)",
+      "formato": "✅ Verdadero o falso",
+      "subcategoria": "Poderes y habilidades",
+      "rama": "Frutas del Diablo / One piece",
+      "subrama": "🍈 Conceptos básicos.",
+      "path": "✅ Verdadero o falso → Poderes y habilidades → Frutas del Diablo / One piece → 🍈 Conceptos básicos."
+    }
+  ],
+  "lastUpdated": "2026-07-16T16:41:47.246Z"
 }
