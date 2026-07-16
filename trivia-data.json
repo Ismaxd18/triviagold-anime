@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "exportedAt": "2026-07-16T12:48:01.185Z",
+  "exportedAt": "2026-07-16T13:03:33.161Z",
   "formatos": [
     {
       "id": "vf",
@@ -59,8 +59,8 @@
       ]
     },
     {
-      "id": "f1784206011658",
-      "name": "Verdadero o Falso",
+      "id": "f1784206301274",
+      "name": "¿Cómo se llama este poder?",
       "subcategorias": []
     }
   ],
@@ -75,5 +75,5 @@
       "preview": "Trivia sobre Frutas del Diablo en One Piece"
     }
   ],
-  "lastUpdated": "2026-07-16T12:48:01.186Z"
+  "lastUpdated": "2026-07-16T13:03:33.161Z"
 }
