@@ -1,7 +1,33 @@
 {
   "version": "4.0",
-  "exportedAt": "2026-07-16T16:31:18.589Z",
-  "formatos": [],
+  "exportedAt": "2026-07-16T16:38:50.459Z",
+  "formatos": [
+    {
+      "id": "f1784219545277",
+      "name": "✅ Verdadero o falso",
+      "subcategorias": [
+        {
+          "id": "s1784219757174",
+          "name": "Poderes y habilidades",
+          "ramas": [
+            {
+              "nombre": "Frutas del Diablo / One piece",
+              "subramas": [
+                "🍈 Conceptos básicos.",
+                "🔥 Frutas Logia.",
+                "💪 Frutas Paramecia.",
+                "🦖 Frutas Zoan.",
+                "👑 Frutas Zoan Míticas.",
+                "⚡ Frutas despertadas.",
+                "🤯 Mitos sobre las Frutas del Diablo.",
+                "🏴 Usuarios famosos."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "trivias": [],
-  "lastUpdated": "2026-07-16T16:31:18.589Z"
+  "lastUpdated": "2026-07-16T16:38:50.460Z"
 }
