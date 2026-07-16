@@ -1,28 +1,21 @@
 {
   "version": "3.0",
-  "exportedAt": "2026-07-16T13:37:52.657Z",
+  "exportedAt": "2026-07-16T14:12:14.084Z",
   "formatos": [
     {
-      "id": "f1784208984093",
+      "id": "vf",
       "name": "✅ Verdadero o falso",
-      "subcategorias": []
-    },
-    {
-      "id": "f1784209004062",
-      "name": "⚡ Reconoce el poder",
-      "subcategorias": []
+      "subcategorias": [
+        {
+          "id": "s1784211007272",
+          "name": "Poderes y habilidades",
+          "ramas": [
+            "Frutas del Diablo"
+          ]
+        }
+      ]
     }
   ],
-  "trivias": [
-    {
-      "id": 1784208968924,
-      "title": "Trivia One Piece - Frutas del Diablo",
-      "category": "One Piece",
-      "date": "2026-07-16",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQksCvHfHboIBksbDo5s8tVNORVTIGbLnGGkBghLAxLNDSq07hDf51gPqsc&s=10",
-      "json": "[\n  {\n    \"q\": \"Luffy obtuvo sus poderes al comer la Hito Hito no Mi, modelo: Nika\",\n    \"img\": \"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQksCvHfHboIBksbDo5s8tVNORVTIGbLnGGkBghLAxLNDSq07hDf51gPqsc&s=10\",\n    \"ans\": true,\n    \"exp\": \"Verdadero.\",\n    \"cat\": \"One Piece\"\n  }\n]",
-      "preview": "Trivia sobre Frutas del Diablo"
-    }
-  ],
-  "lastUpdated": "2026-07-16T13:37:52.658Z"
+  "trivias": [],
+  "lastUpdated": "2026-07-16T14:12:14.085Z"
 }
