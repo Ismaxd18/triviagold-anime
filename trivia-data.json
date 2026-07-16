@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "exportedAt": "2026-07-16T19:30:21.704Z",
+  "exportedAt": "2026-07-16T19:32:05.941Z",
   "formatos": [
     {
       "id": "f1784219545277",
@@ -22,6 +22,14 @@
                 "🤯 Mitos sobre las Frutas del Diablo.",
                 "🏴 Usuarios famosos."
               ]
+            },
+            {
+              "nombre": "Técnicas",
+              "subramas": []
+            },
+            {
+              "nombre": "Habilidades especiales",
+              "subramas": []
             }
           ]
         }
@@ -208,5 +216,5 @@
       "fecha": "2026-07-16"
     }
   ],
-  "lastUpdated": "2026-07-16T19:30:21.705Z"
+  "lastUpdated": "2026-07-16T19:32:05.941Z"
 }
