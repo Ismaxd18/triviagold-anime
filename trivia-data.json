@@ -1,83 +1,7 @@
 {
-  "version": "2.0",
-  "exportedAt": "2026-07-16T05:03:35.617Z",
-  "formats": [
-    {
-      "id": 1784176792954,
-      "name": "Verdadero o Falso",
-      "sub": "📖 Historia del anime"
-    },
-    {
-      "id": 1784170202683,
-      "name": "🎵 ¿Reconoces este opening?",
-      "sub": "Anime"
-    },
-    {
-      "id": 1784170202677,
-      "name": "💬 ¿Quién dijo esta frase?",
-      "sub": "Anime"
-    },
-    {
-      "id": 1784170202680,
-      "name": "⚔️ Reconoce la espada",
-      "sub": "Demon Slayer"
-    },
-    {
-      "id": 1784170202673,
-      "name": "🔥 ¿Cómo se llama este poder?",
-      "sub": "Dragon Ball"
-    },
-    {
-      "id": 1784170202671,
-      "name": "⚡ Reconoce el poder",
-      "sub": "General"
-    },
-    {
-      "id": 1784170202676,
-      "name": "🎌 ¿Qué tan otaku eres?",
-      "sub": "General"
-    },
-    {
-      "id": 1784170202678,
-      "name": "🎭 Adivina el personaje",
-      "sub": "General"
-    },
-    {
-      "id": 1784170202684,
-      "name": "🏆 Duelo Anime",
-      "sub": "General"
-    },
-    {
-      "id": 1784170202674,
-      "name": "💥 Solo un verdadero otaku lo sabe",
-      "sub": "General"
-    },
-    {
-      "id": 1784170202682,
-      "name": "🧩 ¿De qué anime es?",
-      "sub": "General"
-    },
-    {
-      "id": 1784170202681,
-      "name": "👹 ¿Quién es este villano?",
-      "sub": "Jujutsu Kaisen"
-    },
-    {
-      "id": 1784170202672,
-      "name": "⚡ Reconoce la técnica",
-      "sub": "Naruto"
-    },
-    {
-      "id": 1784170202679,
-      "name": "👁️ ¿De quién son estos ojos?",
-      "sub": "Naruto"
-    },
-    {
-      "id": 1784170202675,
-      "name": "⚔️ ¿Qué habilidad está usando?",
-      "sub": "One Piece"
-    }
-  ],
+  "version": "3.0",
+  "exportedAt": "2026-07-16T05:17:52.733Z",
+  "formatos": [],
   "trivias": [
     {
       "id": 1784170202773,
@@ -89,5 +13,5 @@
       "preview": "Trivia sobre Frutas del Diablo en One Piece"
     }
   ],
-  "lastUpdated": "2026-07-16T05:03:35.625Z"
+  "lastUpdated": "2026-07-16T05:17:52.734Z"
 }
