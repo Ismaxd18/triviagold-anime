@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "exportedAt": "2026-07-19T13:13:51.452Z",
+  "exportedAt": "2026-07-19T13:16:34.838Z",
   "formatos": [
     {
       "id": "f1784219545277",
@@ -38,6 +38,36 @@
     {
       "id": "f1784466820931",
       "name": "🧩 ¿De qué anime es?",
+      "subcategorias": []
+    },
+    {
+      "id": "f1784466850045",
+      "name": "👹 ¿Quién es el villano?",
+      "subcategorias": []
+    },
+    {
+      "id": "f1784466887997",
+      "name": "🏆 ¿Quién ganaría?",
+      "subcategorias": []
+    },
+    {
+      "id": "f1784466915058",
+      "name": "🎭 Adivina personaje",
+      "subcategorias": []
+    },
+    {
+      "id": "f1784466933360",
+      "name": "🎵 ¿Reconoces el opening?",
+      "subcategorias": []
+    },
+    {
+      "id": "f1784466960296",
+      "name": "⚡ Reconoce el poder",
+      "subcategorias": []
+    },
+    {
+      "id": "f1784466992663",
+      "name": "👁️ ¿De quién son estos ojos?",
       "subcategorias": []
     }
   ],
@@ -221,5 +251,5 @@
       "fecha": "2026-07-16"
     }
   ],
-  "lastUpdated": "2026-07-19T13:13:51.461Z"
+  "lastUpdated": "2026-07-19T13:16:34.838Z"
 }
