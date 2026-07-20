@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "exportedAt": "2026-07-20T10:47:18.078Z",
+  "exportedAt": "2026-07-20T11:00:23.615Z",
   "formatos": [
     {
       "id": "f1784219545277",
@@ -83,6 +83,20 @@
     }
   ],
   "trivias": [
+    {
+      "id": 1784545223089,
+      "title": "El tren infinito/ Temporada 2",
+      "category": "Demon Slayer",
+      "date": "2026-07-20",
+      "image": "https://i.ibb.co/1txJT62d/6-mugen-ressha-hen-personajes-enmu-cke.jpg",
+      "json": "[\n  {\n    \"q\": \"¿Qué habilidad le permite a Enmu manipular y controlar a sus víctimas?\",\n    \"img\": \"https://i.ibb.co/1txJT62d/6-mugen-ressha-hen-personajes-enmu-cke.jpg\",\n    \"ans\": [\n      \"Sueños profundos\",\n      \"Control mental\",\n      \"Ilusiones visuales\",\n      \"Hipnosis por sonido\"\n    ],\n    \"exp\": \"Enmu atrapa a los cazadores sumergiéndolos en sueños profundos e interminables para intentar destruir sus núcleos espirituales.\",\n    \"cat\": \"Demon Slayer\"\n  },\n  {\n    \"q\": \"¿Qué postura definitiva de la Respiración de la Llama usa Rengoku contra Akaza?\",\n    \"img\": \"https://i.ibb.co/yBXnjR9w/images-19.jpg\",\n    \"ans\": [\n      \"Novena Postura: Purgatorio\",\n      \"Quinta Postura: Tigre Llameante\",\n      \"Primera Postura: Fuego Ascendente\",\n      \"Tercera Postura: Universo Ardiente\"\n    ],\n    \"exp\": \"La Novena Postura: Purgatorio es la técnica secreta y más devastadora de la Respiración de la Llama.\",\n    \"cat\": \"Demon Slayer\"\n  },\n  {\n    \"q\": \"¿Lograrás obtener el rango de Pilar en el test completo de 25 preguntas?\",\n    \"img\": \"https://i.ibb.co/S4cKgyHp/kyojuro-rengoku-purgatoire-souffle-de-la-flamme-480x480.jpg\",\n    \"ans\": [\n      \"¡Ver video completo en el canal!\",\n      \"No estoy listo\",\n      \"Apenas nivel Cazador\",\n      \"Me atrapó Enmu\"\n    ],\n    \"exp\": \"¡El test definitivo de 25 preguntas sobre el Tren Infinito ya está disponible en nuestro canal! ¿Aceptas el reto?\",\n    \"cat\": \"Demon Slayer\"\n  }\n]",
+      "preview": "¿Qué habilidad le permite a Enmu manipular y controlar a sus víctimas? (+2 más)",
+      "formato": "🔥 Anime Específico",
+      "subcategoria": "Demon Slayer",
+      "rama": "",
+      "subrama": "",
+      "path": "🔥 Anime Específico → Demon Slayer"
+    },
     {
       "id": 1784220106742,
       "title": "¡SOLO EL 1% CONOCE TODAS LAS REGLAS DE LAS FRUTAS!",
@@ -424,5 +438,5 @@
       "fecha": "2026-07-20"
     }
   ],
-  "lastUpdated": "2026-07-20T10:47:18.078Z"
+  "lastUpdated": "2026-07-20T11:00:23.615Z"
 }
