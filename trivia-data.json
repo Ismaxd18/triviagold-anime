@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "exportedAt": "2026-07-20T10:44:57.560Z",
+  "exportedAt": "2026-07-20T10:47:18.078Z",
   "formatos": [
     {
       "id": "f1784219545277",
@@ -69,6 +69,17 @@
       "id": "f1784466992663",
       "name": "👁️ ¿De quién son estos ojos?",
       "subcategorias": []
+    },
+    {
+      "id": "f1784544412757",
+      "name": "🔥 Anime Específico",
+      "subcategorias": [
+        {
+          "id": "s1784544429859",
+          "name": "Demon Slayer",
+          "ramas": []
+        }
+      ]
     }
   ],
   "trivias": [
@@ -413,5 +424,5 @@
       "fecha": "2026-07-20"
     }
   ],
-  "lastUpdated": "2026-07-20T10:44:57.560Z"
+  "lastUpdated": "2026-07-20T10:47:18.078Z"
 }
