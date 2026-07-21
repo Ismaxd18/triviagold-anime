@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "exportedAt": "2026-07-20T11:00:45.256Z",
+  "exportedAt": "2026-07-21T09:57:16.201Z",
   "formatos": [
     {
       "id": "f1784219545277",
@@ -80,6 +80,26 @@
           "ramas": []
         }
       ]
+    },
+    {
+      "id": "f1784627716525",
+      "name": "⚔️ Reconoce la espada",
+      "subcategorias": []
+    },
+    {
+      "id": "f1784627798206",
+      "name": "🎌 ¿Qué tan otaku eres?",
+      "subcategorias": []
+    },
+    {
+      "id": "f1784627813968",
+      "name": "🔥 ¿Qué transformación es?",
+      "subcategorias": []
+    },
+    {
+      "id": "f1784627834063",
+      "name": "🍈 ¿Qué Fruta del Diablo es?",
+      "subcategorias": []
     }
   ],
   "trivias": [
@@ -438,5 +458,5 @@
       "fecha": "2026-07-20"
     }
   ],
-  "lastUpdated": "2026-07-20T11:00:45.256Z"
+  "lastUpdated": "2026-07-21T09:57:16.211Z"
 }
